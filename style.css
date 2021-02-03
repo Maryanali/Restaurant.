@@ -18,6 +18,9 @@ P {
   justify-content: center;
   align-items: center;
   background: url(bg.jpg);
+  background-size: cover;
+  height: 100%;
+  background-position: center;
 }
 
 .banner .content {
